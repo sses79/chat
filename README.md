@@ -1,1 +1,1 @@
-## Chat build on Laravel
+## Chat built on Laravel
